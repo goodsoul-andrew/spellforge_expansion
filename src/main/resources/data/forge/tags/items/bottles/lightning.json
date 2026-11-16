@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "irons_spellbooks:lightning_bottle",
+      "required": false
+    },
+    {
+      "id": "more_critters:bottleo_electricity",
+      "required": false
+    },
+    {
+      "id": "legendary_delicacies:lightning_bottle",
+      "required": false
+    }
+  ]
+}

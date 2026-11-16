@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "goodsoul_andrew.spellforgeexpansion.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ScrollForgeMenuMixin"
+  ],
+  "client": [],
+  "minVersion": "0.8"
+}

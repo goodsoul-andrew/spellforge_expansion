@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "irons_spellbooks:blood_vial",
+      "required": false
+    },
+    {
+      "id": "bio_delight:bottled_blood",
+      "required": false
+    },
+    {
+      "id": "legendary_delicacies:possessed_blood_bottle",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:bottle_of_blood",
+      "required": false
+    }
+  ]
+}

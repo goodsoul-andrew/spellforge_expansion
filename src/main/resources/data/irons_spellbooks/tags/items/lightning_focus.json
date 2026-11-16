@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:bottles/lightning",
+    {
+      "id": "opposing_force:electric_charge",
+      "required": false
+    },
+    {
+      "id": "delighto_flight:thunder_fruit",
+      "required": false
+    },
+    {
+      "id": "alexscaves:tesla_bulb",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:blood",
+    {
+      "id": "antarchy:blood_crystal_shard",
+      "required": false
+    }
+  ]
+}

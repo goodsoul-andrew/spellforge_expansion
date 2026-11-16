@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#forge:bottles/blood",
+      "required": false
+    },
+    {
+      "id": "legendary_delicacies:blood_clot",
+      "required": false
+    }
+  ]
+}
