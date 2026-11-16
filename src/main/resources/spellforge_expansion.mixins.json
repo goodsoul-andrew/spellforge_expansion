@@ -3,7 +3,8 @@
   "package": "goodsoul_andrew.spellforgeexpansion.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ScrollForgeMenuMixin"
+    "ScrollForgeMenuMixin",
+    "SpellCardInfoMixin"
   ],
   "client": [],
   "minVersion": "0.8"
