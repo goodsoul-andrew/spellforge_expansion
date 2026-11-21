@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#irons_spellbooks:fire_focus"
+    "minecraft:coal",
+    "minecraft:charcoal"
   ]
 }

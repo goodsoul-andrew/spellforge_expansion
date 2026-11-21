@@ -4,7 +4,8 @@
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "ScrollForgeMenuMixin",
-    "SpellCardInfoMixin"
+    "SpellCardInfoMixin",
+    "jei.ScrollForgeRecipeMakerMixin"
   ],
   "client": [],
   "minVersion": "0.8"

@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "minecraft:emerald",
-    "minecraft:emerald_block"
+    "minecraft:emerald_block",
+    "minecraft:totem_of_undying"
   ]
 }
